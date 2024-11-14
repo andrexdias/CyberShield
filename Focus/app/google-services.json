@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "726223959796",
+    "firebase_url": "https://focus-app565-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "focus-app565",
+    "storage_bucket": "focus-app565.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726223959796:android:0aa3b5792d382fbfd850a1",
+        "android_client_info": {
+          "package_name": "pt.andrexdias.focus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726223959796-ajmrum5uh3rs5uvk9iqa4pive44pl41o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-1CIKXjoCbSVqUsGots_E_UORq3NYvnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726223959796-ajmrum5uh3rs5uvk9iqa4pive44pl41o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,91 @@
+INSTRUÇÕES DE IMPRESSÃO DO ADOBE INDESIGN PARA RELATÓRIO DE PRESTADOR DE SERVIÇOS
+
+NOME DA PUBLICAÇÃO: Apresentação Teorica do Design.indd
+
+DATA DO PACOTE: 10/31/2024 2:47 PM
+Data de criação: 10/31/2024
+Data de modificação: 10/31/2024
+
+INFORMAÇÕES PARA CONTATO
+
+Nome da empresa: ....
+Contato: André Dias
+Endereço: 
+
+
+
+
+
+Telefone: 965398851
+Fax: 
+E-mail: oliveira.dias@ubi.pt
+
+INSTRUÇÕES ESPECIAIS E OUTRAS NOTAS
+
+
+
+
+
+
+Plug-ins externos 0
+Objetos não opacos:Na página1, 5
+
+FONTES
+4 Fontes usadas; 0 Ausentes, 0 Incorporados(as), 0 Incompletos(as) , 0 Protegidos(as)
+
+Fontes empacotadas
+- Nome: Poppins-Bold; Tipo: TrueType, Status: OK
+- Nome: Poppins-Medium; Tipo: TrueType, Status: OK
+- Nome: Poppins-Regular; Tipo: TrueType, Status: OK
+- Nome: Poppins-SemiBold; Tipo: TrueType, Status: OK
+
+
+CORES E TINTAS
+4 Tintas de escala; 0 Tintas especiais
+
+- Nome e tipo: Ciano de escala; Ângulo: 0,000; Linhas/polegada: 0,000
+- Nome e tipo: Magenta de escala; Ângulo: 0,000; Linhas/polegada: 0,000
+- Nome e tipo: Amarelo de escala; Ângulo: 0,000; Linhas/polegada: 0,000
+- Nome e tipo: Preto de escala; Ângulo: 0,000; Linhas/polegada: 0,000
+
+
+VÍNCULOS E IMAGENS
+(Somente vínculos ausentes e incorporados)
+Vínculos e imagens: 11 Vínculos encontrados; 0 Modificados(as), 0 Ausentes, 0 Não acessível
+Imagens: 0 Incorporados(as), 5 usam espaço de cor RGB
+
+
+CONFIGURAÇÕES DE IMPRESSÃO
+PPD: N/D, (Microsoft Print to PDF)
+Imprimindo em: Impressora
+Número de cópias: 1
+Páginas espelhadas: Não
+Páginas pares/ímpares: Ambas
+Páginas: Tudo
+Prova: Não
+Lado a lado: Nenhum(a)
+Escala: 100%, 100%
+Posição da página: Superior esquerda
+Camadas de impressão: Camadas visíveis e imprimíveis
+Marcas da impressora: Nenhum(a)
+Sangria: 0 px, 0 px, 0 px, 0 px
+Cor: RGB composto
+Modo de trapping: Nenhum(a)
+Enviar dados de imagem: Subamostragem otimizada
+Substituição de imagem OPI/DCS: Não
+Tamanho da página: Google Pixel/Pixel 2
+Dimensões do papel: 612 px x 792 px
+Orientação: Horizontal
+Negativo: Não
+Modo de virar: Desativado
+
+
+LISTA DO PACOTE DE ARQUIVOS
+
+1. Apresentação Teorica do Design.indd; tipo: Publicação do Adobe InDesign; tamanho: 2376K
+2. Apresentação Teorica do Design.idml; tipo: Documento de marcação do InDesign; tamanho: 189K
+3. Apresentação Teorica do Design.pdf; tipo: Documento do Adobe Acrobat; tamanho: 1327K
+4. Poppins-Bold.ttf; tipo: Arquivo de fonte; tamanho: 150K
+5. Poppins-Medium.ttf; tipo: Arquivo de fonte; tamanho: 152K
+6. Poppins-Regular.ttf; tipo: Arquivo de fonte; tamanho: 154K
+7. Poppins-SemiBold.ttf; tipo: Arquivo de fonte; tamanho: 151K

@@ -1,0 +1,103 @@
+INSTRUÇÕES DE IMPRESSÃO DO ADOBE INDESIGN PARA RELATÓRIO DE PRESTADOR DE SERVIÇOS
+
+NOME DA PUBLICAÇÃO: Trabalho Escrito.indd
+
+DATA DO PACOTE: 11/7/2024 5:11 PM
+Data de criação: 11/7/2024
+Data de modificação: 11/7/2024
+
+INFORMAÇÕES PARA CONTATO
+
+Nome da empresa: ....
+Contato: André Dias
+Endereço: 
+
+
+
+
+
+Telefone: 965398851
+Fax: 
+E-mail: oliveira.dias@ubi.pt
+
+INSTRUÇÕES ESPECIAIS E OUTRAS NOTAS
+
+
+
+
+
+
+Plug-ins externos 0
+Objetos não opacos:Na página1, 8
+
+FONTES
+10 Fontes usadas; 0 Ausentes, 0 Incorporados(as), 0 Incompletos(as) , 0 Protegidos(as)
+
+Fontes empacotadas
+- Nome: Poppins-Bold; Tipo: TrueType, Status: OK
+- Nome: Poppins-BoldItalic; Tipo: TrueType, Status: OK
+- Nome: Poppins-ExtraBold; Tipo: TrueType, Status: OK
+- Nome: Poppins-Italic; Tipo: TrueType, Status: OK
+- Nome: Poppins-Light; Tipo: TrueType, Status: OK
+- Nome: Poppins-LightItalic; Tipo: TrueType, Status: OK
+- Nome: Poppins-Regular; Tipo: TrueType, Status: OK
+- Nome: Poppins-SemiBold; Tipo: TrueType, Status: OK
+- Nome: Poppins-SemiBoldItalic; Tipo: TrueType, Status: OK
+- Nome: Poppins-Thin; Tipo: TrueType, Status: OK
+
+
+CORES E TINTAS
+4 Tintas de escala; 0 Tintas especiais
+
+- Nome e tipo: Ciano de escala; Ângulo: 0,000; Linhas/polegada: 0,000
+- Nome e tipo: Magenta de escala; Ângulo: 0,000; Linhas/polegada: 0,000
+- Nome e tipo: Amarelo de escala; Ângulo: 0,000; Linhas/polegada: 0,000
+- Nome e tipo: Preto de escala; Ângulo: 0,000; Linhas/polegada: 0,000
+
+
+VÍNCULOS E IMAGENS
+(Somente vínculos ausentes e incorporados)
+Vínculos e imagens: 3 Vínculos encontrados; 0 Modificados(as), 0 Ausentes, 0 Não acessível
+Imagens: 0 Incorporados(as), 3 usam espaço de cor RGB
+
+
+CONFIGURAÇÕES DE IMPRESSÃO
+PPD: N/D, (Microsoft Print to PDF)
+Imprimindo em: Impressora
+Número de cópias: 1
+Páginas espelhadas: Não
+Páginas pares/ímpares: Ambas
+Páginas: Tudo
+Prova: Não
+Lado a lado: Nenhum(a)
+Escala: 100%, 100%
+Posição da página: Superior esquerda
+Camadas de impressão: Camadas visíveis e imprimíveis
+Marcas da impressora: Nenhum(a)
+Sangria: 0 mm, 0 mm, 0 mm, 0 mm
+Cor: RGB composto
+Modo de trapping: Nenhum(a)
+Enviar dados de imagem: Subamostragem otimizada
+Substituição de imagem OPI/DCS: Não
+Tamanho da página: A4
+Dimensões do papel: 215,9 mm x 279,4 mm
+Orientação: Vertical
+Negativo: Não
+Modo de virar: Desativado
+
+
+LISTA DO PACOTE DE ARQUIVOS
+
+1. Trabalho Escrito.indd; tipo: Publicação do Adobe InDesign; tamanho: 1684K
+2. Trabalho Escrito.idml; tipo: Documento de marcação do InDesign; tamanho: 89K
+3. Trabalho Escrito.pdf; tipo: Documento do Adobe Acrobat; tamanho: 1029K
+4. Poppins-Bold.ttf; tipo: Arquivo de fonte; tamanho: 150K
+5. Poppins-BoldItalic.ttf; tipo: Arquivo de fonte; tamanho: 172K
+6. Poppins-ExtraBold.ttf; tipo: Arquivo de fonte; tamanho: 149K
+7. Poppins-Italic.ttf; tipo: Arquivo de fonte; tamanho: 177K
+8. Poppins-Light.ttf; tipo: Arquivo de fonte; tamanho: 156K
+9. Poppins-LightItalic.ttf; tipo: Arquivo de fonte; tamanho: 180K
+10. Poppins-Regular.ttf; tipo: Arquivo de fonte; tamanho: 154K
+11. Poppins-SemiBold.ttf; tipo: Arquivo de fonte; tamanho: 151K
+12. Poppins-SemiBoldItalic.ttf; tipo: Arquivo de fonte; tamanho: 174K
+13. Poppins-Thin.ttf; tipo: Arquivo de fonte; tamanho: 157K

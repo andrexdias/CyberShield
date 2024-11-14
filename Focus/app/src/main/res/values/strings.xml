@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Focus</string>
+    <string name="channel_name">Canal Pomodoro</string>
+    <string name="channel_description">Notificações do temporizador Pomodoro</string>
+</resources>
