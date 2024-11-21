@@ -1,4 +1,4 @@
-    package pt.andrexdias.cybershield;
+package pt.andrexdias.cybershield;
 
 import android.os.Bundle;
 
